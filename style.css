@@ -1,0 +1,165 @@
+
+
+h3 {
+	text-align: center;
+	padding: 0px;
+	margin-left: -8px;
+	margin-top: -8px;
+	height: 62px;
+	font-size: 45px;
+	padding-top: 10px;
+	width: 1348px;
+	text-transform: uppercase;
+	font-family:"Castellar", Times, serif;
+	border-color: #ccc;
+	color:mediumvioletred;
+	background-color:#abcbcc;
+	text-shadow: 1px 1px 1px #000, 3px 3px 5px blue; 
+}
+
+body {
+        font-family: tahoma, helvetica, arial, sans-serif;
+        font-size: 10px;
+        text-align: center;
+       	background: url('bk.jpg');
+}
+
+   
+.btn-default {
+  color: #333;
+  background-color: #fff;
+  border-color: #ccc;
+}
+.btn-default:hover,
+.btn-default:focus,
+.btn-default.focus,
+.btn-default:active,
+.btn-default.active,
+.open > .dropdown-toggle.btn-default {
+  color: #333;
+  background-color: #e6e6e6;
+  border-color: #adadad;
+}
+.btn-default:active,
+.btn-default.active,
+.open > .dropdown-toggle.btn-default {
+  background-image: none;
+}
+.btn-default.disabled,
+.btn-default[disabled],
+fieldset[disabled] .btn-default,
+.btn-default.disabled:hover,
+.btn-default[disabled]:hover,
+fieldset[disabled] .btn-default:hover,
+.btn-default.disabled:focus,
+.btn-default[disabled]:focus,
+fieldset[disabled] .btn-default:focus,
+.btn-default.disabled.focus,
+.btn-default[disabled].focus,
+fieldset[disabled] .btn-default.focus,
+.btn-default.disabled:active,
+.btn-default[disabled]:active,
+fieldset[disabled] .btn-default:active,
+.btn-default.disabled.active,
+.btn-default[disabled].active,
+fieldset[disabled] .btn-default.active {
+  background-color: #fff;
+  border-color: #ccc;
+}
+.btn-default .badge {
+  color: #fff;
+  background-color: #333;
+}
+
+
+.round {
+		display: block;
+		position: absolute;
+		left: 80%;
+		top: 17px;
+		width: 10%;
+		height: 6%;
+		padding-top: 5px;		
+		text-decoration: none;		
+		text-align: top;
+		font-size: 20px;		
+		text-shadow: 0 2px 0 rgba(255,255,255,.7);
+		letter-spacing: -.065em;
+		font-family: "Hammersmith One", sans-serif;		
+		-webkit-transition: all .25s ease-in-out;
+		-o-transition: all .25s ease-in-out;
+		-moz-transition: all .25s ease-in-out;
+		transition: all .25s ease-in-out;
+		box-shadow: 2px 2px 10px rgba(0,0,0,.2);
+		border-radius: 300px;
+		z-index: 1;
+		border-width: 4px;
+		border-style: solid;
+	}
+
+	.round:hover {
+		width: 10%;
+		height: 50px;
+		left: 80%;
+		top: 12px;
+		font-size: 20px;
+		padding-top: 5px;
+		-webkit-box-shadow: 5px 5px 10px rgba(0,0,0,.3);
+		-o-box-shadow: 5px 5px 10px rgba(0,0,0,.3);
+		-moz-box-shadow: 5px 5px 10px rgba(0,0,0,.3);
+		box-shadow: 5px 5px 10px rgba(0,0,0,.3);
+		z-index: 2;
+		border-size: 10px;
+		-webkit-transform: rotate(-360deg);
+		-moz-transform: rotate(-360deg);
+		-o-transform: rotate(-360deg);
+		transform: rotate(-360deg);
+	}
+#menu {
+    width: 1350px;
+    height: 35px;
+    margin-left: -9px;
+    margin-top: -20px;
+    font-size: 16px;
+    font-family: Tahoma, Geneva, sans-serif;
+    font-weight: bold;
+    text-align: center;
+    background-color: #abcbcc;
+    border-radius: 8px;
+}
+#menu a
+{
+	text-decoration: none;
+}
+#menu ul {
+    height: auto;
+    padding: 5px;
+    margin: 0px;
+}
+
+#menu li { 
+	margin-top:-18px;
+	display: inline; 
+	padding: 20px; 
+}
+
+#menu a:hover {
+	color:#F90;
+	text-decoration: none;
+} 
+	
+
+
+#menu li:hover {
+	height: 7px;
+    color: #F90;
+    background-color: #FFF;
+
+}
+
+.img{	
+
+		left: 180px;
+	}
+
+
